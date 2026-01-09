@@ -14,7 +14,6 @@
 // console.timeEnd();
 // console.clear();
 
-
 // let a=10;
 // console.log(a, typeof a)
 // a=a.toString()
@@ -22,19 +21,16 @@
 // a=parseInt(a);
 // console.log(a, typeof a)
 
-
 // a="name"
 // console.log(a, typeof a)
 // a=parseInt(a);
 // console.log(a, typeof a)
-
 
 // const stud={"name":"kumar","age":12};
 // console.table(stud);
 // console.log(stud.name);
 // stud.name="ravi";
 // console.log(stud);
-
 
 // let a=10;
 // let b=2;
@@ -48,7 +44,6 @@
 // c=--b;
 // console.log(c);
 
-
 // a=10;
 // a+=5;
 // a-=5;
@@ -57,13 +52,11 @@
 // a%=5;
 // console.log(a);
 
-
 // let a=20;
 // let b="20";
 // console.log(a===b);
 // console.log(a==b);
 // console.log(a!=b);
-
 
 // let a=10;
 // let b=20;
@@ -72,7 +65,6 @@
 // console.log(a<=b)
 // console.log(a>=b)
 
-
 // let m=45;
 // console.log(m>=35 && m<=100);
 // let m1=2;
@@ -80,11 +72,9 @@
 // a=false;
 // console.log(!a);
 
-
 // const a=23;
 // const result=a>=18?"eligible":"not eligible";
 // console.log(result);
-
 
 // function welcome(name)
 // {
