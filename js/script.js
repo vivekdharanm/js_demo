@@ -1,6 +1,5 @@
 // console.log("Java Script")
 
-
 // console.log(69);
 // console.log("Sixty Nine");
 // console.log(10>20);
