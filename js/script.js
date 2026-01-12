@@ -122,7 +122,6 @@
 // let total = numbers.reduce((sum,number)=>sum+number,0);
 // console.log(total);
 
-
 // let createCounter = () => {
 //     let count=0;
 //     return ()=>{
@@ -131,14 +130,12 @@
 //     }
 // }
 
-
 // let counter = createCounter();
 // console.log(counter())
 // console.log(counter())
 // console.log(counter())
 // console.log(counter())
 // console.log(counter())
-
 
 // function myCallback()
 // {
@@ -151,28 +148,23 @@
 // }
 // higherOrderFunction(myCallback);
 
-
 // setTimeout(function(){
 //     console.log("5 Secs Delay.")
 // },5000)
-
 
 // setInterval(function(){
 //     console.log("Looping...")
 // },5000)
 
-
 // let array=[1,2,3,4,5,6];
 // console.log(array);
 // console.table(array);
-
 
 // const nums = [1,2,3,4,5,6];
 // console.log(nums);
 // nums.forEach((val)=>{
 //     console.log(val)
 // });
-
 
 // const users = [
 //     {fname:"Rajan", age:36, city:"Vada Chennai", occupation:"Leader"},
