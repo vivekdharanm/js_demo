@@ -188,10 +188,8 @@
 //     });
 // },6000);
 
-
 // const fnames = ['appii', 'orgii', 'grapii', 'mangii', 'pomeii'];
 // fnames.forEach(fname=>console.log(fname));
-
 
 const nums = [1,2,3,4,5,6];
 
